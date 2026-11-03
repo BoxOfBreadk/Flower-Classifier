@@ -1,0 +1,19 @@
+# Python environments
+.venv/
+venv/
+
+# Python-generated files
+__pycache__/
+*.pyc
+
+# Jupyter-generated files
+.ipynb_checkpoints/
+
+# Local secrets
+.env
+.env.*
+!.env.example
+
+# Operating-system files
+.DS_Store
+Thumbs.db
